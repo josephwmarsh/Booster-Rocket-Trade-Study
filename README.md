@@ -14,16 +14,16 @@ This project compares six booster rocket propulsion concepts: two liquid engines
 
 ## Designs Compared
 ### Liquid Rocket Engines
-1. **LOX / RP-1**
-2. **LOX / LH2**
+1. LOX / RP-1
+2. LOX / LH2
 
 ### Solid Rocket Motors
-3. **Aluminum / Ammonium Perchlorate (AP) with HTPB binder**
-4. **Magnesium / Ammonium Nitrate (AN) with HTPB binder**
+3. Aluminum / Ammonium Perchlorate (AP) with HTPB binder
+4. Magnesium / Ammonium Nitrate (AN) with HTPB binder
 
 ### Hybrid Rocket Engines
-5. **HTPB fuel / LOX oxidizer**
-6. **N2O oxidizer / Paraffin fuel**
+5. HTPB fuel / LOX oxidizer
+6. N2O oxidizer / Paraffin fuel
 
 ## Analysis Approach
 ### Performance + Thermochemistry (NASA CEA)
